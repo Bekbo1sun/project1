@@ -1,7 +1,9 @@
 * {
   box-sizing: border-box;
 }
-body,
+body{
+  max-width: max-content;
+}
 html {
   margin: 0;
   background-color: white;
