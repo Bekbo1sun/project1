@@ -2,7 +2,7 @@
   box-sizing: border-box;
 }
 body{
-  max-width: fit-content;
+  max-width: 100%;
 }
 html {
   margin: 0;
