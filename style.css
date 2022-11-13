@@ -37,9 +37,6 @@ nav ul li a {
   justify-content: space-between;
   align-items: baseline;
 }
-.ul1:hover{
-  border-color: black;
-}
 header {
   background-image: url(./Rectangle.png);
   background-repeat: no-repeat;
