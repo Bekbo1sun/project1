@@ -32,9 +32,6 @@ nav ul li a {
   display: flex;
   justify-content: space-between;
   align-items: baseline;
-  display: flex;
-  justify-content: space-between;
-  align-items: baseline;
 }
 header {
   background-image: url(./Rectangle.png);
@@ -82,6 +79,7 @@ main img{
   display: flex;
   justify-content: center;
 }
+
 .p1{
   color: grey;
   margin-left: 40px;
