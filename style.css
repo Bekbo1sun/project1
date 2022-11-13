@@ -81,10 +81,6 @@ main img{
 .img2{
   display: flex;
   justify-content: center;
-  margin-top: 15px;
-}
-.img2:hover{
-  background-color: black;
 }
 .p1{
   color: grey;
