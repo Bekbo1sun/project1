@@ -6,7 +6,6 @@ html {
   background-color: white;
   font-family: "Roboto" sans-serif;
   font-weight: 400;
-  max-width: 100%;
 }
 nav {
   background-color: white;
@@ -82,6 +81,9 @@ main img{
 .img2{
   display: flex;
   justify-content: center;
+}
+.img2:hover{
+  background-color: black;
 }
 .p1{
   color: grey;
@@ -379,7 +381,4 @@ footer div p strong {
   font-size: 8px;
   font-weight: 400px;
   font-family: "Roboto" sans-serif;
-}
-.aidin1:hover{
-  background-color: grey;
 }
